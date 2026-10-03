@@ -18,9 +18,9 @@ services:
       - key: STUDYHUB_ENV
         value: production
       - key: STUDYHUB_CORS_ORIGINS
-        value: https://ai-studyhub-phi.vercel.app
+        value: https://ai-studyhub-hub.vercel.app
       - key: STUDYHUB_FRONTEND_URL
-        value: https://ai-studyhub-phi.vercel.app
+        value: https://ai-studyhub-hub.vercel.app
       - key: STUDYHUB_AI_PROVIDER
         value: openai
       - key: STUDYHUB_AI_MODEL
